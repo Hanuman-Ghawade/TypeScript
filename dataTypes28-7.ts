@@ -51,8 +51,6 @@ console.log(value)
 // Never with data types 
 
 var anyValue : never  =  " Hello" ; // // Never effectively throws an error whenever it is defined.
-console.log("Number : ",anyValue)
-
 
 // Undefined & null dataypes 
 
