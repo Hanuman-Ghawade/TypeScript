@@ -40,17 +40,17 @@ anything.push("Hanuman",28,true) // We can assign any value to tuple using any t
 console.log(anything)
 
 // 5 . array with readonly .We can't change the value of array 
-var array : readonly string[] =  ["Hanuman"] ;
-array.push("Ghawade")  // we can't push value in readonly array 
-console.log(array)
+// var array : readonly string[] =  ["Hanuman"] ;
+// array.push("Ghawade")  // we can't push value in readonly array 
+// console.log(array)
 
-var value : number = [1,2,3,4,5]
-value.push(5);
-console.log(value)
+// var value : number = [1,2,3,4,5]
+// value.push(5);
+// console.log(value)
 
 // Never with data types 
 
-var anyValue : never  =  " Hello" ; // // Never effectively throws an error whenever it is defined.
+// var anyValue : never  =  " Hello" ; // // Never effectively throws an error whenever it is defined.
 
 // Undefined & null dataypes 
 
