@@ -12,7 +12,6 @@ let arrSecond = arr(["a","b","c"])
 console.log(arrFirst)
 console.log(arrSecond)
 
-
 let newarr = <X,Y>(x : X,y:Y):[X,Y] =>{
     return [x,y]
 }
