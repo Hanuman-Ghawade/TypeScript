@@ -45,7 +45,4 @@ const people:People<number>  =  {
 console.log(people)
 
 
-
-
-
-
+export{}

@@ -49,4 +49,5 @@ function summation (a:number,b:number,...rest:number[]){
 console.log(summation(10,20,30))
 
 
+
 export{}

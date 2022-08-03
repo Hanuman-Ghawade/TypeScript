@@ -75,7 +75,7 @@ class Department{
 
     }
     printEmployee(){
-        console.log(this.employees +' '+this.id)
+        console.log(this.employees +' '+ this.id)
 
     }
 }
@@ -87,7 +87,7 @@ department.addEmployee("Hanuman") ;
 department.addEmployee("Aditya")
 department.printEmployee()
 
-
+// Data Modifier in typescript 
 
 
 export{}
